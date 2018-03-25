@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "es2015",
+    "stage-0"
+  ],
+  "plugins": []
+}
+
+/**
+    There are still some grammar can not be converted
+    stage-0 not enough
+*/
